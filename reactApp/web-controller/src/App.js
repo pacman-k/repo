@@ -31,7 +31,7 @@ class App extends React.Component {
           country: undefined,
           pressure: undefined,
           sunset: undefined,
-          error: "Cant find city with this name : " + city
+          error: "Cant find city with name : " + city
         });
       } else {
         var sunset_date = new Date(data.sys.sunset);
@@ -61,17 +61,27 @@ class App extends React.Component {
 
   render() {
     return (
-      <div>
-        <Info />
-        <Form wetherMethod={this.gettingWether} />
-        <Wether
-          temp={this.state.temp}
-          city={this.state.city}
-          country={this.state.country}
-          pressure={this.state.pressure}
-          sunset={this.state.sunset}
-          error={this.state.error}
-        />
+      <div className="wrapper">
+        <div className="main">
+          <div className="container">
+            <div className="row">
+              <div className="col-sm-5 info">
+                <Info />
+              </div>
+              <div className="col-sm-7">
+                <Form wetherMethod={this.gettingWether} />
+                <Wether
+                  temp={this.state.temp}
+                  city={this.state.city}
+                  country={this.state.country}
+                  pressure={this.state.pressure}
+                  sunset={this.state.sunset}
+                  error={this.state.error}
+                />
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     );
   }
