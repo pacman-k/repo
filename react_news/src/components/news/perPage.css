@@ -1,0 +1,9 @@
+.p-button {
+    background-color: rgb(77, 55, 199); 
+    text-align: center;
+    width: auto;
+    border: none;
+    margin: 4px 5px;
+    cursor: pointer;
+    border-radius: 50%;
+}

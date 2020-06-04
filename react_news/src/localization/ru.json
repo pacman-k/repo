@@ -1,0 +1,35 @@
+{
+    "ru": {
+      "translation": {
+        "login": "Вход",
+        "logout": "Выйти",
+        "register": "Регистрация",
+        "username": "Логин",
+        "password": "Пароль",
+        "repeat_password":"Повторите Пароль",
+        "enter_username": "Введите ваш логин",
+        "enter_password": "Введите ваш пароль",
+        "submit": "Разместить",
+        "signin": "Войти",
+        "signup": "Зарегестрироваться",
+        "enter_name": "Введите Имя",
+        "name":"Имя",
+        "enter_surname": "Введите Фамилию",
+        "surname": "Фамилия",
+        "enter_email":"Введите email",
+        "email":"Email",
+        "create_account": "Создайте Аккаунт",
+        "have_account": "Есть аккаунт?",
+        "cont_read": "Читать дальше...",
+        "create_date": "создано:",
+        "modific_date": "мод:",
+        "last_mod":"последняя модификация: ",
+        "add_news": "Добавить Новость",
+        "add_edit_authors": "Доб./Ред. Авторов",
+        "add_edit_tags": "Доб./Ред. Теги",
+        "tags": "теги",
+        "search": "искать",
+        "cancel": "отмена"
+      }
+    }
+  }

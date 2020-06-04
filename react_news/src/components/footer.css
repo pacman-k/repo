@@ -1,0 +1,16 @@
+.footer{
+position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: rgba(51,143,255,0.58);
+  background: -moz-linear-gradient(left, rgba(51,143,255,0.58) 26%, rgba(51,143,255,0.64) 53%, rgba(5,105,255,0.74) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(26%, rgba(51,143,255,0.58)), color-stop(53%, rgba(51,143,255,0.64)), color-stop(100%, rgba(5,105,255,0.74)));
+  background: -webkit-linear-gradient(left, rgba(51,143,255,0.58) 26%, rgba(51,143,255,0.64) 53%, rgba(5,105,255,0.74) 100%);
+  background: -o-linear-gradient(left, rgba(51,143,255,0.58) 26%, rgba(51,143,255,0.64) 53%, rgba(5,105,255,0.74) 100%);
+  background: -ms-linear-gradient(left, rgba(51,143,255,0.58) 26%, rgba(51,143,255,0.64) 53%, rgba(5,105,255,0.74) 100%);
+  background: linear-gradient(to right, rgba(51,143,255,0.58) 26%, rgba(51,143,255,0.64) 53%, rgba(5,105,255,0.74) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#338fff', endColorstr='#0569ff', GradientType=1 );
+  color: rgb(5, 4, 4);
+  text-align: center;
+}

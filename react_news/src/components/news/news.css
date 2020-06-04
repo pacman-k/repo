@@ -1,0 +1,37 @@
+.goto-button{
+    color: rgb(238, 234, 234);
+    border: none;
+    background-color: inherit;
+    display: inline-block;
+    font-size: large;
+    outline: none;  
+}
+.goto-button:focus{
+    outline: none;
+}
+.goto-button:hover{
+    text-decoration: underline;
+}
+
+.date{
+    color: rgb(70, 235, 5);
+    text-align: right;
+}
+
+.cell{
+    align-self: center;
+    color: blue;
+}
+
+.inputField{
+    background: none;
+    resize: none;
+    width: auto;
+}
+
+.shortText{
+    width: 500px;
+}
+.fullText{
+   width: 500px;
+}

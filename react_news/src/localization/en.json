@@ -1,0 +1,36 @@
+{
+    "en": {
+      "translation": {
+        "login": "LogIn",
+        "logout": "LogOut",
+        "register": "Register",
+        "username": "Login",
+        "password": "Password",
+        "repeat_password":"Repeat Password",
+        "enter_username": "Enter your Username",
+        "enter_password": "Enter your Password",
+        "submit": "Submit",
+        "signin": "SignIn",
+        "signup": "SignUp",
+        "enter_name": "Enter your First Name",
+        "name":"First Name",
+        "enter_surname": "Enter your Last Name",
+        "surname": "Last Name",
+        "enter_email":"Enter your Email",
+        "email":"Email",
+        "create_account": "Create Account",
+        "have_account": "Have an account?",
+        "cont_read": "Continue reading...",
+        "create_date": "created:",
+        "modific_date": "mod:",
+        "last_mod":"last modification: ",
+        "add_news": "Add News",
+        "add_edit_authors": "Add/Edit Authors",
+        "add_edit_tags": "Add/Edit Tags",
+        "tags": "tags",
+        "search": "search",
+        "cancel": "cancel"
+      }
+      
+    }
+  }
