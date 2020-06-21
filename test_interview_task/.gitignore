@@ -1,0 +1,5 @@
+$ ignore .gitignore
+
+/target
+/.idea
+*.iml
