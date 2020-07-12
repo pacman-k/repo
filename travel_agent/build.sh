@@ -1,2 +1,1 @@
-@echo off
-call mvnw spring-boot:run
+ sh mvnw spring-boot:run
