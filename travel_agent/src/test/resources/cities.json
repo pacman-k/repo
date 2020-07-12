@@ -1,0 +1,64 @@
+[
+  {
+    "cityId": 1,
+    "cityName":"Moscow",
+    "cityDescription":"Moscow is the capital and most populous city of Russia, standing on the Moskva River in the central part of Western Russia, Moscow's population is estimated at 12.6 million residents within the city proper, with over 17 million residents in the urban area, and over 20 million residents in the Moscow Metropolitan Area. The city limits cover an area of 2,511 square kilometres (970 sq mi), while the metropolitan area covers over 26,000 square kilometres (10,000 sq mi), Moscow is among the world's largest cities, being the most populous city entirely within Europe, the most populous urban area in Europe, the most populous metropolitan area in Europe, and also the largest city (by area) on the European continent.",
+    "links":[
+      {
+        "link":"https://en.wikipedia.org/wiki/Moscow",
+        "linkDescription": "info from Wikipedia"
+      }
+    ],
+    "tags":[
+      "москва",
+      "mosc"
+    ]
+
+  },
+  {
+    "cityId": 2,
+    "cityName":"Tokyo",
+    "cityDescription":"Tokyo  is the capital and most populous prefecture of Japan. Located at the head of Tokyo Bay, the prefecture forms part of the Kantō region on the central Pacific coast of Japan's main island, Honshu. Tokyo is the political and economic center of the country, as well as the seat of the Emperor of Japan and the national government. In 2019, the prefecture had an estimated population of 13,929,280. The Greater Tokyo Area is the most populous metropolitan area in the world, with more than 37.4 million residents as of 2018.",
+    "links":[
+      {
+        "link":"https://en.wikipedia.org/wiki/Tokyo",
+        "linkDescription": "info from Wikipedia"
+      },
+      {
+        "link":"https://www.planetware.com/tourist-attractions-/tokyo-jpn-kn-t.htm",
+        "linkDescription": "Tokyo sights"
+      }
+    ],
+    "tags":[
+      "токио"
+    ]
+
+  },
+  {
+    "cityId": 3,
+    "cityName":"New York",
+    "cityDescription":"New York City, often called simply New York and abbreviated as NYC, is the most populous city in the United States. With an estimated 2019 population of 8,336,817 distributed over about 302.6 square miles (784 km2), New York is also the most densely populated major city in the United States. Located at the southern tip of the U.S. state of New York, the city is the center of the New York metropolitan area, the largest metropolitan area in the world by urban landmass. With almost 20 million people in its metropolitan statistical area and approximately 23 million in its combined statistical area, it is one of the world's most populous megacities. New York City has been described as the cultural, financial, and media capital of the world, significantly influencing commerce, entertainment, research, technology, education, politics, tourism, art, fashion, and sports. Home to the headquarters of the United Nations, New York is an important center for international diplomacy.",
+    "links":[
+      {
+        "link":"https://en.wikipedia.org/wiki/New_York_City",
+        "linkDescription": "info from Wikipedia"
+      },
+      {
+        "link":"https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm",
+        "linkDescription": "20 Top-Rated Places in New York City"
+      },
+      {
+        "link":"https://www.nps.gov/stli/index.htm",
+        "linkDescription": "Statue of Liberty"
+      }
+    ],
+    "tags":[
+      "нью-йорк",
+      "ny",
+      "ньюёрк",
+      "new-york",
+      "New York City"
+    ]
+
+  }
+]

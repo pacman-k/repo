@@ -1,0 +1,10 @@
+[
+  {
+    "command": "/help",
+    "value": "Enter city name you are interested in. Example : 'Moscow' ☺"
+  },
+  {
+    "command": "/description",
+    "value": "Bot Travel Agent helps you to get information about any city you want \uD83D\uDE01"
+  }
+]
