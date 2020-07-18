@@ -12,7 +12,7 @@ public class Link {
 
     @NotEmpty(message = "link must not be empty")
     @Pattern(regexp = "(https?://)?(www\\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_+.~#?&/=]*)",
-            message = "unvalid link pattern")
+            message = "invalid link pattern")
     @Column(nullable = false)
     private String link;
 
